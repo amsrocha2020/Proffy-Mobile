@@ -5,10 +5,6 @@
   <img src="uploads/capa-mobile.png"/>
 </p>
 
-<p align="center">
-  <img src="uploads/web.gif"/>
-</p>
-
 ## About the project <a id="secao-en_us"></a>
 
 Proffy is a platform that connects students aiming to get classes to teachers willing to teach the most varied school subjects, and has been developed during the second edition of Rocketseat's Next Level Week. In the project, it's possible to add a lot of classes, where the teacher can register his info, subjects and his available schedule to give classes. It's also possible search between registered classes, where the user choose the subject, week day and the hour of the day chosen to see if there is an available class.
